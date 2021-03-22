@@ -1,0 +1,24 @@
+install node.js
+npx create-react-app dojo-blog
+
+install simple react snippets
+
+add javascript: javascriptreact in settings/emmet
+
+clear not needed files and code
+
+component names should start with capital
+
+see snippets for basic dynamic values
+
+# create a mock database
+new data folder on root
+-new file db.json
+
+
+# run the mock server 
+npx json-server --watch data/db.json --port 8000
+
+custom hook names always start with use
+
+npm install react-router-dom@5
